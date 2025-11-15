@@ -1,12 +1,11 @@
-import { Button } from "./components/ui/button"
-
+import AppRoutes from './AppRoutes';
 
 function App() {
-  return (
-    <>
-      <Button>Click Me</Button>
-    </>
-  )
+	return (
+		<>
+			<AppRoutes />
+		</>
+	);
 }
 
-export default App
+export default App;
