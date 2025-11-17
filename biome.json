@@ -24,12 +24,6 @@
 			"jsxQuoteStyle": "single"
 		}
 	},
-	"json": {
-		"formatter": {
-			"indentStyle": "tab",
-			"trailingCommas": "all"
-		}
-	},
 	"css": {
 		"parser": {
 			"tailwindDirectives": true
